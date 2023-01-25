@@ -64,7 +64,7 @@ Aaba yeslai part part ma bujaum:
 # Go Compact code
 
 Hamle chai Go lang lai ajhai compactly lekhna milxa
-```
+```Go
 package main; import ("fmt"); func main() { fmt.Println("Hello");}
 ```
 Yo chai recomendable xaina just information ko lagi matrai ho kina vane yo way ma code lai bujna ekdam complex hunxa.
